@@ -1,0 +1,60 @@
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #8b0808;
+}
+.btn{
+    font-size: 12px 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 0;
+    transition: all ease-in .5;
+}
+.btn-brand{
+    background-color: #8b0808;
+    color: #fff;
+}
+
+.btn-brand:hover{
+    border: 2px solid #8b0808;
+}
+
+.navbar .nav-link{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #8b0808;
+    text-transform: uppercase;
+}
+
+#banner{
+    background: url(SQUIDGAME.jpg);
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#banner h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140px;
+    color: white
+}
+#banner p{
+    font-size: 25px;
+    color: #fff;
+}
+section{
+    padding: 100px 0;
+}
+.card-img-top{
+    width: 80%;
+}
+.card{
+    border-radius: 0;
+    margin-top: 20px;
+    border: 2px solid #8b0808;
+    padding: 20px;
+}
+.card title{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
